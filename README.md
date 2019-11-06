@@ -1,0 +1,1 @@
+# Hospital_Waste_Management_System
