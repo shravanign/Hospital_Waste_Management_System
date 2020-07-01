@@ -27,5 +27,7 @@ The logs on the Serial Monitor of the Arduino IDE is as below:
 <img src="images/Serial_Monitor_Output.jpg" width="600" height="300">
 </p>
 
+<a href="https://youtu.be/0c9d9r84Ws8">Click here</a> for the demo of the system.
+
 
                                                              Thank You
