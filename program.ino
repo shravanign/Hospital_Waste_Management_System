@@ -137,30 +137,6 @@ void MESSAGE_SEND()
    myBot.sendMessage(msg_sender_id, "SEND START TO CONTINUE");  
 }
 
-char Serial_read(void)
-{
-      char ch;
-      while(Serial.available() == 0);
-      ch = Serial.read(); 
-      return ch;
-}
-
-void buffer_clear()
-{
-  for(z=0;z<60;z++)
-  {
-    Start_buff[z]='\0';
-    
-  } 
-}
-void buffer1_clear()
-{
-  for(z=0;z<5;z++)
-  {   
-   textmessage[z]='\0'; 
-  } 
-}
-
 void TEST()
 {
   String ssid = "smile";     // REPLACE mySSID WITH YOUR WIFI SSID
