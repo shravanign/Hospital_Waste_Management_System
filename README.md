@@ -7,7 +7,7 @@ The different hardware components of the system are as follows:
    2. RFID Reader
    3. RFID Tags
 
-We assume that, the RFID tags are attached to each medical device used in hospitals. These RFID tags contain the details of the device based on which an alert is generated. The alert generated suggests that this particular medical device has already been used and should not be used again.
+We assume that, the RFID tags are attached to each medical device used in hospitals. These RFID tags contain the details of the device based on which an alert is generated. The alert generated suggests that the particular medical device has already been used and should not be used again.
 
 The system looks as below:
 
